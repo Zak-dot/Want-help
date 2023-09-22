@@ -1,2 +1,3 @@
 # Want-help
 1. Hi , Zak here.....
+Well , I am a high school student and from childhood I am fond of tech and programming but the thing is I don't know from where to start . So , I need help.
